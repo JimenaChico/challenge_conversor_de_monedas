@@ -47,6 +47,7 @@
 * [🛠Tecnologías utilizadas:](#tecnologías-utilizadas)
     - Lenguajes: Java
     - Herramientas: Git ,Intellij Idea
+    - Exchange Rate API https://www.exchangerate-api.com/docs/java-currency-api
 
 * [Licencia:](#licencia)
     * Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
