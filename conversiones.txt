@@ -1,0 +1,3 @@
+El resultado: 1000.00 MXN = 49.94 USD
+El resultado: 900.00 BRL = 157.68 USD
+El resultado: 1000.00 EUR = 21653.30 MXN
